@@ -336,4 +336,5 @@ a .frame02 {
 #aboutus p{
 	line-height: 20px;
 	font-size: 15px;
+	text-align: justify;
 }
